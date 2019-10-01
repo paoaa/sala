@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <conio.h>
+#include <math.h>
+
+int main()
+{
+printf ("Escolha uma das opções:\n");
+printf ("1: Checar o dinheiro da sala\n");
+printf ("2: Checar os últimos gastos da sala\n");
+printf ("3: Checar os próximos eventos\n");
+printf ("4: comer cu");
+
+    
+}
